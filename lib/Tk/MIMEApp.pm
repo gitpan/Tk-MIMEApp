@@ -16,11 +16,11 @@ Tk::MIMEApp - The great new Tk::MIMEApp!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 our @Shelf = (); # we'll put our books here!
 
