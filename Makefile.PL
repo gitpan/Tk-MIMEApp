@@ -23,6 +23,7 @@ WriteMakefile(
         'YAML::Perl' => 0.02,
         'Tk::MarkdownTk' => 0.07,
         'Tk' => 5.0,
+        'MIME::Multipart::Parse::Ordered' => 0.03,
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Tk-MIMEApp-*' },

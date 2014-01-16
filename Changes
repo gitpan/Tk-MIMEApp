@@ -1,5 +1,8 @@
 Revision history for Tk-MIMEApp
 
+0.04    2014-01-16/08:59
+        Updated dependencies in Makefile.PL (again!)
+
 0.03    2014-01-09/16:45
         Updated dependencies in Makefile.PL
 
